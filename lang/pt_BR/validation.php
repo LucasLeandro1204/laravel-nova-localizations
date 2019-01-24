@@ -12,8 +12,8 @@ return [
     | as the size rules. Feel free to tweak each of these messages here.
     |
     */
-
-    'attached' => 'Este :attribute já foi anexado.',
-    'relatable' => 'Este :attribute não pode ser associado à esse recurso..',
+    
+    'attached' => 'Este :attribute já está associado.',
+    'relatable' => 'Este :attribute talvez não possa ser associado com este recurso.',
 
 ];
